@@ -1,0 +1,15 @@
+body {
+    background-color: #212121;
+    color: aliceblue;
+}
+
+.container{
+    height: 100vh;
+}
+
+#clock{
+    font-size: 2rem;
+    background-color: #aeabab;
+    color: black;
+    padding: .2rem;
+}

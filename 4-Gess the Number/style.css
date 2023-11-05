@@ -1,0 +1,9 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+
+form input[type="number"]{
+    padding: 5px;
+    background-color: #d2cece;
+}
